@@ -36,4 +36,6 @@ public interface Constant {
     String PAGEPARAMETER_FIRST = "First" + SUFFIX_PAGE;
     //第二个分页参数
     String PAGEPARAMETER_SECOND = "Second" + SUFFIX_PAGE;
+
+    String TEST = "test";
 }
